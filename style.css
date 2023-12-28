@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    background-color: thistle;
+}
+
+h1{
+    text-decoration: underline;
+    font-size: 50px;
+    color: tomato;
+}
+
+#number{
+    font-size: 35px;
+    background-color: cornsilk;
+}
+
+.btn{
+    font-size: 30px;
+    transition: 0.6s;
+    background-color: rgb(113, 123, 141);
+    border-radius: 7px;
+}
+
+.btn:hover{
+    background-color: rgb(147, 170, 194);
+    border-radius: 20px;
+}
+
+#result{
+    color: green;
+}
